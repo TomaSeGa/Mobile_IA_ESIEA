@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="710ee381-2b18-482b-87a3-f9f438055b79" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/image-classification/expo/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/image-classification/expo/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/BUCK" beforeDir="false" afterPath="$PROJECT_DIR$/image-classification/expo/android/app/BUCK" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/src/debug/java/com/posenet/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/src/main/java/com/posenet/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/src/main/java/com/posenet/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/src/main/res/drawable/splashscreen_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-classification/expo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/image-classification/expo/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2lyeDHabAwry1E2sgoZFc95GL7O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/segar_0gzda/Desktop/ESIEA 5A/IA embarqué/TP3/IA_mobile&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="710ee381-2b18-482b-87a3-f9f438055b79" name="Changes" comment="" />
+      <created>1726156621755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726156621755</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
