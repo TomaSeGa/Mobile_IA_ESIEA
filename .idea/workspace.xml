@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="710ee381-2b18-482b-87a3-f9f438055b79" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image-classification/expo/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/image-classification/expo/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/BUCK" beforeDir="false" afterPath="$PROJECT_DIR$/image-classification/expo/android/app/BUCK" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/src/debug/java/com/posenet/ReactNativeFlipper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/src/main/java/com/posenet/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/src/main/java/com/posenet/MainApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-classification/expo/android/app/src/main/res/drawable/splashscreen_image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-classification/expo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/image-classification/expo/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

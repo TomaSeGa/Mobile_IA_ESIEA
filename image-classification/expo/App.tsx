@@ -100,7 +100,7 @@ const App = () => {
       </View>
     </CameraView>
 
-    {/* Afficher l'image capturée par-dessus la caméra si elle existe */}
+    {/* print image */}
     {image ? (
       <Image
         source={{ uri: image }}
